@@ -3,7 +3,7 @@ import Following from '../pages/following';
 import Profile from '../pages/profile';
 import Upload from '../pages/upload';
 //Layout
-import HeaderOnly from '../components/Layout/HeaderOnly/Header';
+import HeaderOnly from '../components/Layout/HeaderOnly';
 
 const publicRoutes = [
 //no Sign
